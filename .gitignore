@@ -1,0 +1,9 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore RubyMine IDE files
+/.idea
+/.idea/**
+
+# Ignore Mac OSX directory file
+**.DS_Store
